@@ -1,10 +1,10 @@
-# presentacion-
+# Presentacion: TP 0
+## Ignacio Scarfo
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+#### Vida como estudiante:
+* Estudié en el Colegio Sagrada Familia de Villa Urquiza
+* Siempre me interesó mucho el ámbito tecnológico y financiero, me terminé decantando por esta carrera por opiniones de terceros
+* Este es mi segundo año en la facu, y obviamente me encantaría terminar la carrera a tiempo, aunque se que es **muy** dificil
 
-Ya saben usar git!
+
+
