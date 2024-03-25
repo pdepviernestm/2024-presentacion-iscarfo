@@ -11,3 +11,5 @@
 * Amo entrenar, me sirve como forma de distraerme y concentrarme en mi
 * Soy muy familiero, y para mi los domingos en familia son sagrados
 
+### Foto que me identifica:
+![image](https://github.com/pdepviernestm/2024-presentacion-iscarfo/assets/164821165/35a7ba8f-3a62-463c-af7b-f31251fedd6b)
